@@ -18,7 +18,6 @@
             @endphp
         </div>
     @endif
-
     <div class="row">
         <div class="col-md-4">
             <div class="card" style="width:18rem;">
